@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">B_GPS</string>
+    <string name="btn_anzeigen">Anzeigen</string>
 </resources>

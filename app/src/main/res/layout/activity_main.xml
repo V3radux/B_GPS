@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.derdude.b_gps.MainActivity"
     android:orientation="vertical">
-
+<!-- test -->
     <TextView
         android:id="@+id/tv_long"
         android:layout_width="match_parent"
